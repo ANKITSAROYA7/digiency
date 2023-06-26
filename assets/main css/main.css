@@ -296,6 +296,10 @@ button {
     padding-bottom: 30px;
     padding-top: 30px;
 }
+.padding-bottom{
+   margin-bottom: 20px;
+}
+
 
 .padding_top {
     padding-top: 15px;
@@ -308,6 +312,16 @@ button {
 .padding_top_bottom3 {
     padding-bottom: 120px;
     padding-top: 120px;
+}
+
+.padding_top_bottom4 {
+    padding-bottom: 30px;
+    padding-top: 18px;
+}
+
+.padding_top_bottom5{
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .text_color {
@@ -381,6 +395,15 @@ button {
         width: 33.33%;
         padding-right: 12px;
         padding-left: 12px;
+    }
+
+    .padding_top_lg_bottom5{
+        padding-bottom: 178px;
+        padding-top: 217px;
+    }
+
+    .fs-lg-48 {
+        font-size: 48.90px;
     }
 
 }
